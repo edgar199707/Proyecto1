@@ -1,0 +1,7 @@
+c:\users\e-bescobar\source\repos\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe.config
+c:\users\e-bescobar\source\repos\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.exe
+c:\users\e-bescobar\source\repos\ProyectoAdopcion\ProyectoAdopcion\bin\Debug\ProyectoAdopcion.pdb
+c:\users\e-bescobar\source\repos\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.csprojAssemblyReference.cache
+c:\users\e-bescobar\source\repos\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.csproj.CoreCompileInputs.cache
+c:\users\e-bescobar\source\repos\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.exe
+c:\users\e-bescobar\source\repos\ProyectoAdopcion\ProyectoAdopcion\obj\Debug\ProyectoAdopcion.pdb
